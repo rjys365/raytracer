@@ -1,5 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/4198311/89027545-461dd180-d35d-11ea-9972-7bf1b07f942d.png)
 
+# 临时工作repo: ![rust_raytracer](https://github.com/rjys365/rust_raytracer)
+
 # PPCA Raytracer 2022
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ACMClassCourse-2021/PPCA-Raytracer-2022)
